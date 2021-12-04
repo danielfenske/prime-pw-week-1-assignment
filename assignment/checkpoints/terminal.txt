@@ -10,7 +10,7 @@ The command for changing directories in the terminal is 'cd', followed by the lo
 The command for going "up" a folder is 'cd ..'.
 
 # 4 - What is a quick way to create a new folder?
-The quickest way to create a new folder (AKA directory) is 'mkdir'.
+A quick way to create a new folder (AKA directory) is 'mkdir'.
 
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
 If the command 'ls' was run in an empty folder, the terminal would return the location of the current folder you are in.
@@ -24,7 +24,7 @@ My terminal's output for 'git --version' is 2.30.1.
 
 # 8 - Why would you run the command 'git status'?
 'git status' allows us to see if it recognizes the files that have changed.
-It color codes orange/red/green to inform us if it was modified and if the changes were pushed.
+It's color codes orange/red/green to inform us if it was modified and if the changes were pushed.
 
 # 9 - What does the command 'git add .' do?
 'git add .' saves a revision of the current project state.
